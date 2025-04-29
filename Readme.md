@@ -1,5 +1,4 @@
-# Repositorio para ejercicios practicos en python
-
+#           REPOSITPRIO EJERCICIOS PRACTICOS EN PYTHON
 # MODULO 1
 
 # Semana 1
